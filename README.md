@@ -1,8 +1,8 @@
-# Start with Bug Bounty
+# Start with Bug Bounty!
 
 ## Learning Resources
 
-- [Hacker101](https://www.hacker101.com/)
+- [Hacker101 | Videos](https://www.hacker101.com/videos)
 - [Hacktivity - HackerOne](https://hackerone.com/hacktivity)
 - [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 - [TryHackMe | Learn Cybersecurity](https://tryhackme.com/)
@@ -17,6 +17,7 @@
 
 ## Challenges
 
+- [Hacker101 CTF](https://ctf.hacker101.com/)
 - [PentesterLab: Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
 - [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu/)
 - [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
@@ -36,9 +37,16 @@
 - [Certified Information Security Manager (CISM)](https://www.isaca.de/de/zert-start/international/cism1)
 - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/)
 
-CompTIA:
+- CompTIA:
 
 - [PenTest+](https://www.comptia.org/certifications/pentest)
 - [Security+](https://www.comptia.org/certifications/security)
 - [Network+](https://www.comptia.org/certifications/network)
 
+## Bug Bounty Platforms
+
+- [Hacker-Powered Security Testing & Bug Bounty | HackerOne](https://www.hackerone.com/)
+- [Crowdsourced Cybersecurity Platform | Bugcrowd](https://www.bugcrowd.com/)
+- [Synack - Most Trusted Crowdsourced Penetration Testing Platform](https://www.synack.com/)
+- [Intigriti - Bug Bounty & Agile Pentesting Platform](https://www.intigriti.com/)
+- [YesWeHack - Global Bug Bounty platform & VDP platform](https://www.yeswehack.com/)
