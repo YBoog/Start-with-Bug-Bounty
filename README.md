@@ -6,6 +6,7 @@
 - [Hacktivity - HackerOne](https://hackerone.com/hacktivity)
 - [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 - [TryHackMe | Learn Cybersecurity](https://tryhackme.com/)
+- [Bugcrowd University | Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 - [Pentester Academy: Learn Pentesting Online](https://www.pentesteracademy.com/)
 - [Free Cybersecurity Training and Career Development | Cybrary](https://www.cybrary.it/)
 - [Cybersecurity Jobs & IT Certifications | ITProTV | IT Courses](https://www.itpro.tv/career-paths/cybersecurity/)
