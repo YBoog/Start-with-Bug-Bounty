@@ -1,4 +1,4 @@
-# Bug-Bounty
+# Start with Bug Bounty
 
 ## Learning Resources
 
