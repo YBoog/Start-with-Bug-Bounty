@@ -36,7 +36,6 @@
 - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 - [Certified Information Security Manager (CISM)](https://www.isaca.de/de/zert-start/international/cism1)
 - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/)
-
 - [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
 - [CompTIA Network+](https://www.comptia.org/certifications/network)
