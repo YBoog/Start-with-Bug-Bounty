@@ -12,7 +12,6 @@
 - [INE.com](https://ine.com/pages/cybersecurity)
 - [TCM Security Academy | TCM Security, Inc.](https://academy.tcm-sec.com/)
 - [SagarOnDemand](https://www.sagarondemand.com/)
-
 - [PentesterLab](https://pentesterlab.com/)
 - [Hack The Box](https://www.hackthebox.eu/)
 - [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
