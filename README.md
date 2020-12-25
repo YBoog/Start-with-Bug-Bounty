@@ -48,3 +48,4 @@
 - [Synack - Most Trusted Crowdsourced Penetration Testing Platform](https://www.synack.com/)
 - [Intigriti - Bug Bounty & Agile Pentesting Platform](https://www.intigriti.com/)
 - [YesWeHack - Global Bug Bounty platform & VDP platform](https://www.yeswehack.com/)
+- [HackenProof: Bug Bounty and Vulnerability Coordination Platform](https://hackenproof.com/)
