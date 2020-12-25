@@ -29,6 +29,8 @@
 - [Web Hacking 101 by Peter Yaworski (English Edition 18.08.2016)](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
 - [Real-World Bug Hunting: A Field Guide to Web Hacking (English Edition 09.07.2019)](https://amzn.to/3nNfI15)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (English Edition 07.10.2011)](https://amzn.to/2M6uSkf)
+- [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://amzn.to/38vcLMi)
+- [Hacking: The Art of Exploitation](https://amzn.to/3hjywCP)
 
 ## Certifications
 
