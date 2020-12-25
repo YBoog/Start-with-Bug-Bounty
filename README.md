@@ -25,8 +25,8 @@
 
 ## Books
 
+- [OWASP Web Security Testing Guide (Version 4.2)](https://owasp.org/www-project-web-security-testing-guide/)
 - [Web Hacking 101 by Peter Yaworski (English Edition 18.08.2016)](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
-- [OWASP Web Security Testing Guide (Version 4.0)](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
 - [Real-World Bug Hunting: A Field Guide to Web Hacking (English Edition 09.07.2019)](https://amzn.to/3nNfI15)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (English Edition 07.10.2011)](https://amzn.to/2M6uSkf)
 
