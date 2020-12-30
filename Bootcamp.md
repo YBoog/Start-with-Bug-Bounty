@@ -1,3 +1,0 @@
-# Bootcamp!
-
-Coming Soon
